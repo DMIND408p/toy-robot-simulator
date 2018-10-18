@@ -1,3 +1,4 @@
+To run app go the folder in terminal and run command
 $ npm install
 $ npm start
 ```
